@@ -1,4 +1,5 @@
 # GitPracticeRepository<br>
 What You are doing Sir
 <br>
-<h1 style="color:red">Introduction</h1>
+<p><b>This is a Bold Text</b></p>
+
